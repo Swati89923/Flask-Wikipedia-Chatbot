@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning"],
+      "responses": ["Hello!", "Hi there!", "Hey 👋"]
+    },
+    {
+      "tag": "about",
+      "patterns": ["What is Python", "Tell me about Flask", "What is Machine Learning"],
+      "responses": ["Let me explain that to you."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you"],
+      "responses": ["Bye!", "Take care 👋"]
+    }
+  ]
+}
