@@ -4,6 +4,9 @@
 
 A sophisticated, production-ready Wikipedia-based AI chatbot built with Flask, PyTorch, and advanced NLP techniques. This internship-level project demonstrates industry-standard software engineering practices with a focus on modular architecture, intelligent query processing, and exceptional user experience.
 
+## 🌐 Live Demo
+👉 https://flask-wikipedia-chatbot.onrender.com
+
 ## ✨ Key Features
 
 ### 🧠 Advanced NLP & Intelligence
