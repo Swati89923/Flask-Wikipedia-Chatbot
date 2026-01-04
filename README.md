@@ -245,18 +245,4 @@ CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5000", "app:app"]
 - [ ] Database integration
 - [ ] Microservices architecture
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**AI Engineer** | *Advanced NLP & Machine Learning Enthusiast*
-
-- Demonstrates industry-level software engineering practices
-- Shows expertise in full-stack development and NLP
-- Highlights ability to deliver production-ready applications
-
----
-
-**Project Status**: ✅ Production Ready | 🚀 Industry Grade | 📱 Mobile Responsive
